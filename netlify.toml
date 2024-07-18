@@ -1,0 +1,5 @@
+[build]
+  publish = "public"  # Cambia esto si tu directorio de publicación es diferente
+  command = "node server.js"
+
+
